@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Models\Booths\Models\**" />
+    <Compile Remove="Models\Cocktails\Models\**" />
+    <Compile Remove="Models\Delicacies\Models\**" />
+    <Compile Remove="Repositories\Models\**" />
+    <EmbeddedResource Remove="Models\Booths\Models\**" />
+    <EmbeddedResource Remove="Models\Cocktails\Models\**" />
+    <EmbeddedResource Remove="Models\Delicacies\Models\**" />
+    <EmbeddedResource Remove="Repositories\Models\**" />
+    <None Remove="Models\Booths\Models\**" />
+    <None Remove="Models\Cocktails\Models\**" />
+    <None Remove="Models\Delicacies\Models\**" />
+    <None Remove="Repositories\Models\**" />
+  </ItemGroup>
+
+</Project>
