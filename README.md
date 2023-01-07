@@ -15,5 +15,8 @@ These are my solutions through the course C# Advanced from SoftUni
 - Data encapsulation
 - Unit Testing
 
-## Certificate
+## Certificates
 ![C# Advanced - September 2022 - Certificate](https://user-images.githubusercontent.com/84270419/198368024-4a2fcd3c-33af-408d-b165-a26fbaa5f853.jpeg)
+
+
+![C# OOP - October 2022 - Certificate](https://user-images.githubusercontent.com/84270419/211160252-02b6eea3-3245-456a-b4b0-87ccb0d4ef91.jpeg)
